@@ -1,3 +1,6 @@
+<div id="header" align ="center">
+  <image src =https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif width="200"/>
+  </div>
 - 👋 Hi, I’m Nitya Jain 
 - 🌱 I’m currently working on java
 
